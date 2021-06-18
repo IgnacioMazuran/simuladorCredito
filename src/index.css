@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif !important;
+  color: white !important;
+  font-size: 18px !important;
+}
+
+.container {
+  text-align: center;
+  background-image: linear-gradient(
+    to right,
+    rgb(81, 154, 238),
+    rgb(67, 15, 209)
+  );
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+.rango {
+  position: absolute;
+  top: 70%;
+  left: 37%;
+}
+.rango2 {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+}
+.rango3 {
+  position: absolute;
+  top: 70%;
+  left: 40%;
+}
+.rango4 {
+  position: absolute;
+  top: 70%;
+  left: 52%;
+}
+.titulo1 {
+  position: absolute;
+  top: 5%;
+  left: 28%;
+}
+.titulo2 {
+  position: absolute;
+  top: 5%;
+  left: 35%;
+}
